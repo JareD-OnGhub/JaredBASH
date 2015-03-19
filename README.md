@@ -1,2 +1,2 @@
 # JaredBASH
-Attempts at scripts for BASH (Bourne Again SHell) by me
+Attempts at BASH (Bourne Again SHell) scripts by me
